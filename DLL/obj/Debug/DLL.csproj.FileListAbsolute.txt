@@ -1,0 +1,6 @@
+C:\Users\faher\Desktop\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+C:\Users\faher\Desktop\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\faher\Desktop\DLL\bin\Debug\DLL.dll
+C:\Users\faher\Desktop\DLL\bin\Debug\DLL.pdb
+C:\Users\faher\Desktop\DLL\obj\Debug\DLL.dll
+C:\Users\faher\Desktop\DLL\obj\Debug\DLL.pdb
